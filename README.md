@@ -1,5 +1,6 @@
 # Data_ML_engineering
  Pyspark project, consists of several pyspark jobs, that collect marketing campaign data from the parquet file, prepare the dataset and train a several ML models to chose the best one and save it for further implementation.
+![Data_transform](https://user-images.githubusercontent.com/74819831/162590582-d2f6b2dc-4e15-403d-956e-0c7b2f641c7e.jpg)
 
 
 ## Requirements
