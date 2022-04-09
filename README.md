@@ -3,6 +3,7 @@
 
 ## Requirements
 * Docker
+* Python 3.8 or later
 * Jupyter Notebook
 * PySpark (3.1.1)
 
